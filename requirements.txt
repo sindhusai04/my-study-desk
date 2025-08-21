@@ -5,3 +5,4 @@ crispy-bootstrap4
 youtube-search-python
 requests
 wikipedia
+whitenoise
